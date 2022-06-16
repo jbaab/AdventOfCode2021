@@ -3,6 +3,7 @@ inp = "forward 3,down 4,forward 3,up 4,down 4,down 6,down 3,down 1,up 7,down 7,f
 # String to list
 inp_li = inp.split(",")
 
+"""Day 02"""
 
 aim = 0
 pos_x = 0
